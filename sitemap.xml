@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://BarryElderwine.github.io/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BarryElderwine.github.io/posts/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://BarryElderwine.github.io/eyerubs/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BarryElderwine.github.io/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://BarryElderwine.github.io/categories/</loc>
@@ -57,6 +54,9 @@
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://BarryElderwine.github.io/posts/2024/240219-consciousness---made-with-natural-and-artificial-flavors/</loc>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BarryElderwine.github.io/posts/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://BarryElderwine.github.io/posts/2024/240213-write-out-in-the-open/</loc>
