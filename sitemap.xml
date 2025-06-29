@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://BarryElderwine.github.io/posts/2025/2025-tester/</loc>
+    <loc>https://BarryElderwine.github.io/eyerubs/eyerubbing-test/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://BarryElderwine.github.io/categories/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://BarryElderwine.github.io/tags/eyerub/</loc>
+    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BarryElderwine.github.io/eyerubs/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://BarryElderwine.github.io/</loc>
@@ -26,9 +29,6 @@
     <loc>https://BarryElderwine.github.io/categories/personal/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/posts/</loc>
-    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://BarryElderwine.github.io/categories/science/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -37,9 +37,6 @@
   </url><url>
     <loc>https://BarryElderwine.github.io/categories/technology/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BarryElderwine.github.io/eyerubs/</loc>
-    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://BarryElderwine.github.io/eyerubs/the-balance-between-discovery-and-generativity/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
@@ -68,7 +65,14 @@
     <loc>https://BarryElderwine.github.io/posts/2024/240219-consciousness---made-with-natural-and-artificial-flavors/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://BarryElderwine.github.io/posts/</loc>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://BarryElderwine.github.io/posts/2024/240213-write-out-in-the-open/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BarryElderwine.github.io/condecision/untitled/</loc>
+  </url><url>
+    <loc>https://BarryElderwine.github.io/tags/</loc>
   </url>
 </urlset>
